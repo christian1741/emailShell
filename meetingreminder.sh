@@ -2,7 +2,7 @@
 #Code by Christian Caicedo 
 #Start your code from here
 
-RutaEV="your_path/event-member.data"    #Path Event-Member.data
+RutaEV="your_path/data.data"    #Path Event-Member.data
 RutaEmail="your_path/Reminder.email"    #Path Reminder.email
 
 Month=$(date +%m) #It takes the currently month 
