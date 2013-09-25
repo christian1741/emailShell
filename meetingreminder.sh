@@ -2,8 +2,8 @@
 #Code by Christian Caicedo 
 #Start your code from here
 
-RutaEV="your_path/data.data"    #Path Event-Member.data
-RutaEmail="your_path/Reminder.email"    #Path Reminder.email
+RutaEV="your_path/data.data"    #Path data.data  - > list of users with the event details
+RutaEmail="your_path/FriendlyRemainderEmail.email"    #Path FriendlyRemainderEmail.email -> Message to be mailed. 
 
 Month=$(date +%m) #It takes the currently month 
 Day=$(date +%d) #It takes the currently day
