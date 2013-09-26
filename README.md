@@ -1,7 +1,7 @@
 emailShell
 ==========
 
-A short code in Shell Script to send a "Friendly-Reminder" e-mail to a given list of users. 
+A short code in Shell Script to send a "Friendly-Reminder" e-mail to a list of users. 
 
 It has three components: 
   1. FridenlyReminderEmail.email
